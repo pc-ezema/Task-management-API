@@ -164,7 +164,7 @@ This is a Task Management System built with Laravel. It provides APIs for managi
 
 ## Postman Collection
 
-You can view and test the API using the Postman collection [here](https://api.postman.com/collections/13019853-8e7f5ff1-cf11-4e7e-8768-7fcb23712b04?access_key=PMAT-01J3DX09XBPA3P532Z89PSJZHR).
+You can view and test the API using the Postman collection [here](https://elements.getpostman.com/redirect?entityId=13019853-8e7f5ff1-cf11-4e7e-8768-7fcb23712b04&entityType=collection).
 
 ## Setup
 
