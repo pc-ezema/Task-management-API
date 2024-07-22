@@ -18,9 +18,9 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/login', function () {
     return response([
-        'code' => 200,
+        'code' => 401,
         'message' => 'Token Required!'
-    ], 200);
+    ], 401);
 })->name('login');
 
 Route::group(['middleware' => ['cors', 'json.response']], function () {
